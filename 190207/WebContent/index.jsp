@@ -3,11 +3,7 @@
 <html>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<<<<<<< HEAD
-<title>[가나다라1234####]<title>
-=======
-<title>[가나다라1234]</title>
->>>>>>> branch 'master' of https://github.com/gangnamKGITBANK/Cooperation_test
+<title>[가나다라]</title>
  <script type="text/javascript">
  	function pop(){ 
  		window.open("pop.do", "pop", "width=400,height=500,history=no,resizable=no,status=no,scrollbars=yes,menubar=no")
