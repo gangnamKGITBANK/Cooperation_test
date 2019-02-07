@@ -3,7 +3,7 @@
 <html>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<title>[중구입니다.]</title>
+<title>[ㅇㅇㅇㅇㅇ]</title>
  <script type="text/javascript">
  	function pop(){ 
  		window.open("pop.do", "pop", "width=400,height=500,history=no,resizable=no,status=no,scrollbars=yes,menubar=no")
@@ -27,4 +27,4 @@
 </body>
 </html>
 
-
+ㅇ
