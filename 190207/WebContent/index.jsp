@@ -3,7 +3,7 @@
 <html>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<title>[index.jsp]</title>
+<title>[인덱스입니다.]</title>
  <script type="text/javascript">
  	function pop(){ 
  		window.open("pop.do", "pop", "width=400,height=500,history=no,resizable=no,status=no,scrollbars=yes,menubar=no")
